@@ -48,6 +48,10 @@ MIX_PUSHER_APP_KEY="${PUSHER_APP_KEY}"
 ```
 
 
+###Generar la base de datos(paso manual)
+nombre de la databses
+```rh-empleados```
+
 
 ###Cargar las tablas
 ```php artisan migrate```
@@ -56,4 +60,4 @@ MIX_PUSHER_APP_KEY="${PUSHER_APP_KEY}"
 ```php artisan db:seed```
 
 ###Levantar el servicio
-```php artisan serve```
+```php artisan serve``
