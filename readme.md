@@ -50,7 +50,7 @@ MIX_PUSHER_APP_KEY="${PUSHER_APP_KEY}"
 
 ###Generar la base de datos(paso manual)
 nombre de la database
-```rh-empleados``
+```rh-empleados```
 
 
 ###Cargar las tablas
